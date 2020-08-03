@@ -1,6 +1,6 @@
 
-<h1 align="center">
-	<h1 font-size="20px">🏫 Proffy</h1>
+<h1 align="center" font-size="20px">
+	🏫 Proffy
 </h1>
 
 <h3 align="center">
