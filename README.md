@@ -10,10 +10,10 @@
 <p align="center">
   <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy?color=%2304D361">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/README-proffy">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy">
 
   <a href="https://github.com/grioos/README-proffy/commits/master">
-    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/README-proffy">
+    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
