@@ -1,5 +1,6 @@
 
 <h1 align="center">
+	pat
 	<img alt="Logo Proffy" src="/images/logo.png" />
 </h1>
 
@@ -42,7 +43,7 @@
 
 ## 💻 Sobre o projeto
 
-🏫 Proffy - É uma plataforma onde você pode estudar ou dar aulas. Um professor podendo colocar seu dados, as matérias que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferencias.
+🏫 Proffy - É uma plataforma onde você pode estudar ou dar aulas. Um professor podendo colocar seu dados, as matérias que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferências.
 
 Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 
@@ -65,11 +66,12 @@ $ git clone https://github.com/grioos/proffy
 $ cd proffy
 
 # Instale a extensão
-$ [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+$ Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 # Execute a aplicação 
-$ Clique com o botão direito do mouse no arquivo index.html e depois na opção "Open with Live Server"
+$ Clique no arquivo index.html com o clique direito mouse e depois na opção "Open with Live Server"
 
+# O servidor inciará na porta:5500 - acesse http://localhost:5500 
 ```
 
 ---
