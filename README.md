@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/README-proffy?color=%2304D361">
+  <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy?color=%2304D361">
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/README-proffy">
 
@@ -93,7 +93,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/60109015?s=460&u=941726645c23518f8cbcb9fca84ea7becc0508c5&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Gabriel Rios</b></sub></a>
+ <sub><b>Gabriel Rios</b></sub>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-grioos-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grioos/)](https://www.linkedin.com/in/grioos/) 
