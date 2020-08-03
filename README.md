@@ -13,12 +13,12 @@
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy">
 
   <a href="https://github.com/grioos/README-proffy/commits/master">
-    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy?color=%FF9770">
+    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy?color=%4d0000">
   </a>
     
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
    <a href="https://github.com/grioos/proffy/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy?style=social?color=%8622f8">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy?style=social">
   </a>
 
 </p>
