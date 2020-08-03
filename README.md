@@ -50,8 +50,8 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 
 ## 🚀 Como executar o projeto
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Antes de começar, você vai precisar ter instalado em sua máquina as seguinte ferramenta:
+[Git](https://git-scm.com). 
 Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🧭 Rodando a aplicação
@@ -64,7 +64,7 @@ $ git clone https://github.com/grioos/proffy
 # Acesse a pasta do projeto no seu vscode
 $ cd proffy
 
-# Instale as dependências
+# Instale a extensão
 $ Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 # Execute a aplicação 
@@ -93,7 +93,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/60109015?s=460&u=941726645c23518f8cbcb9fca84ea7becc0508c5&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Gabriel Rios</b></sub>
+ <sub><b>Gabriel Rios</b></sub> 🚀
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-grioos-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grioos/)](https://www.linkedin.com/in/grioos/) 
