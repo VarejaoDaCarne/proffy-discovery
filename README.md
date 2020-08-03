@@ -65,7 +65,7 @@ $ git clone https://github.com/grioos/proffy
 $ cd proffy
 
 # Instale a extensão
-$ Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+$ [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 # Execute a aplicação 
 $ Clique com o botão direito do mouse no arquivo index.html e depois na opção "Open with Live Server"
