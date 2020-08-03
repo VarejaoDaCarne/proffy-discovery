@@ -1,6 +1,6 @@
 
 <h1 align="center">
-     <img alt="Logo Proffy" src="/images/logo.svg" />
+	![alt text](https://github.com/grioos/proffy/blob/master/images/logo.svg?raw=true)
 </h1>
 
 <h3 align="center">
@@ -50,7 +50,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 
 ## 🚀 Como executar o projeto
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguinte ferramenta:
+Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta
 [Git](https://git-scm.com). 
 Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
@@ -104,6 +104,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](./LICENSE.md).
 
 Feito por Gabriel Rios 👋🏻 [Entre em contato!](https://www.linkedin.com/in/grioos/)
