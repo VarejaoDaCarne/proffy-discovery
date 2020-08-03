@@ -1,6 +1,6 @@
 
-<h1 align="center">
-	![alt text](https://github.com/grioos/proffy/blob/master/images/logo.svg?raw=true)
+<h1 align="center" >
+    <img alt="Logo Proffy#" src="/images/logo.png" />
 </h1>
 
 <h3 align="center">
@@ -13,10 +13,10 @@
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy">
 
   <a href="https://github.com/grioos/README-proffy/commits/master">
-    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy">
+    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy?color=%4d0000">
   </a>
     
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
    <a href="https://github.com/grioos/proffy/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy?style=social">
   </a>
@@ -34,7 +34,6 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
@@ -42,7 +41,7 @@
 
 ## 💻 Sobre o projeto
 
-🏫 Proffy - É uma plataforma onde você pode estudar ou dar aulas. Um professor podendo colocar seu dados, as matérias que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferencias.
+🏫 Proffy - É uma plataforma onde você pode estudar ou dar aulas. Um professor podendo colocar seu dados, as matérias que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferências.
 
 Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 
@@ -68,15 +67,10 @@ $ cd proffy
 $ Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 # Execute a aplicação 
-$ Clique com o botão direito do mouse no arquivo index.html e depois na opção "Open with Live Server"
+$ Clique no arquivo index.html com o clique direito mouse e depois na opção "Open with Live Server"
 
+# O servidor inciará na porta:5500 - acesse http://localhost:5500 
 ```
-
----
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
