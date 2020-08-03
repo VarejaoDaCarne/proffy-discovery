@@ -1,6 +1,6 @@
 
 <h1 align="center">
-	<img alt="Logo Proffy" style="fill: black" src="/images/logo.png" />
+	🏫<h1>Proffy</h1>
 </h1>
 
 <h3 align="center">
