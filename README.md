@@ -1,5 +1,5 @@
 
-<h1 align="center" font-size="20px">
+<h1 align="center" font-size="26px">
 	🏫 Proffy
 </h1>
 
