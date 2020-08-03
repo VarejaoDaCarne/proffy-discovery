@@ -1,6 +1,6 @@
 
 <h1 align="center">
-     <img alt="Logo Proffy" src="./images/logo.svg" />
+     <img alt="Logo Proffy" src="/images/logo.svg" />
 </h1>
 
 <h3 align="center">
@@ -17,14 +17,14 @@
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/grioos/README-proffy/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/README-proffy?style=social">
+   <a href="https://github.com/grioos/proffy/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy?style=social">
   </a>
 
 </p>
 
 <h1 align="center">
-    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="./images/banner.png" />
+    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/images/banner.png" />
 </h1>
 
 <h4 align="center"> 
