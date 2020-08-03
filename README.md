@@ -34,7 +34,6 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
@@ -72,12 +71,6 @@ $ Clique no arquivo index.html com o clique direito mouse e depois na opção "O
 
 # O servidor inciará na porta:5500 - acesse http://localhost:5500 
 ```
-
----
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
