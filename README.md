@@ -50,7 +50,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 
 ## 🚀 Como executar o projeto
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguinte ferramenta:
+Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta
 [Git](https://git-scm.com). 
 Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
