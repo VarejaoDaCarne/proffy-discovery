@@ -1,6 +1,6 @@
 
 <h1 align="center">
-	![alt text](https://github.com/grioos/proffy/blob/master/images/logo.svg?raw=true)
+	<img alt="Logo Proffy" src="/images/logo.png" />
 </h1>
 
 <h3 align="center">
