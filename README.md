@@ -1,7 +1,6 @@
 
 <h1 align="center">
-	pat
-	<img alt="Logo Proffy" src="/images/logo.png" />
+	<img alt="Logo Proffy" style="fill: black" src="/images/logo.png" />
 </h1>
 
 <h3 align="center">
