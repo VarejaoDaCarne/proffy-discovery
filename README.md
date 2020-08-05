@@ -84,7 +84,7 @@ $ cd proffy
 $ Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 # Execute a aplicação 
-$ Clique no arquivo index.html com o clique direito mouse e depois na opção "Open with Live Server"
+$ Clique no arquivo index.html com o clique direito do mouse e vá na opção "Open with Live Server"
 
 # O servidor inciará na porta:5500 - acesse http://localhost:5500 
 ```
