@@ -56,6 +56,12 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
   	<img alt="Página de cadastro de vídeo" src="/images/study-page.png" width="100%">
 </p>
 
+###  Página de cadastro dos professores
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  	<img alt="Página de cadastro de vídeo" src="/images/give-classes-fullpg.png" width="100%">
+</p>
+
 ---
 
 ## 🚀 Como executar o projeto
