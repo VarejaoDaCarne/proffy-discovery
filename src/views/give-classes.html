@@ -34,13 +34,13 @@
         </header>
 
         <main>
-            <form action="" id="create-class">
+            <form id="create-class">
                 <fieldset>
                     <legend>Seus dados</legend>
 
                     <div class="input-block">
                         <label for="name">Nome completo</label>
-                        <input type="name" id="name" required>
+                        <input type="name" id="name" name="name" required>
                     </div>
                     
                     <div class="input-block">
@@ -50,7 +50,7 @@
 
                     <div class="input-block">
                         <label for="whatsapp">Whatsapp <small>(somente números)</small></label>
-                        <input type="whatsapp" id="whatsapp" type="number" required>
+                        <input type="whatsapp" id="whatsapp" type="number" name="whatsapp" required>
                     </div>
 
                     <div class="textarea-block">
@@ -64,17 +64,9 @@
                     <div class="select-block">
                         <label for="subject">Matéria</label>
                         <select name="subject" id="subject">
-                            <option value="" disabled="" hidden="">Selecione uma opção</option>
-                            <option value="1">Artes</option>
-                            <option value="2">Biologia</option>
-                            <option value="3">Ciências</option>
-                            <option value="4">Educação física</option>
-                            <option value="5">Física</option>
-                            <option value="6">Geografia</option>
-                            <option value="7">História</option>
-                            <option value="8">Matemática</option>
-                            <option value="9">Português</option>
-                            <option value="10">Química</option>
+                            {% for subject in subjects%}
+                                <option value="{{loop.index}}">{{subject}}</option>
+                            {% endfor %}
                         </select>
                     </div>
 
@@ -94,13 +86,9 @@
                         <div class="select-block">
                             <label for="weekday">Dia da semana</label>
                             <select name="weekday[]" id="weekday" required>
-                                <option value="0">Selecione uma opção</option>
-                                <option value="1">Segunda-feira</option>
-                                <option value="2">Terça-feira</option>
-                                <option value="3">Quarta-feira</option>
-                                <option value="4">Quinta-feira</option>
-                                <option value="5">Sexta-feira</option>
-                                <option value="6">Sábado</option>
+                            {% for weekday in weekdays %}
+                                <option value="{{loop.index0}}" >{{weekday}}</option>
+                            {% endfor %}
                             </select>
                         </div>
 

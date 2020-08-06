@@ -35,6 +35,7 @@
 	<a href="#-sobre-o-projeto">Sobre</a> •
 	<a href="#-layout">Layout</a> • 
  	<a href="#-como-executar-o-projeto">Como executar</a> • 
+  <a href="#-tecnologias">Tecnologias</a> • 
  	<a href="#-autor">Autor</a> • 
  	<a href="#user-content--licença">Licença</a>
 </p>
@@ -91,6 +92,21 @@ $ Clique no arquivo index.html com o clique direito mouse e depois na opção "O
 
 ---
 
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+- **[Express](https://expressjs.com/)**
+- **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+- **[JavaScript](https://www.javascript.com)**
+- **[NodeJS](https://nodejs.org/en/)**
+- **[Nodemon](https://github.com/remy/nodemon)**
+- **[Nunjucks](https://github.com/mozilla/nunjucks)**
+
+> Veja o arquivo  [package.json](https://github.com/grioos/proffy/blob/master/package.json)
+
+---
 ## 💪 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
