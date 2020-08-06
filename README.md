@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-    <img alt="Logo Proffy" src="/images/logo.png" />
+    <img alt="Logo Proffy" src="/public/images/logo.png" />
 </h1>
 
 <h3 align="center">
@@ -24,7 +24,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/images/home-page.png" />
+    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/public/images/home-page.png" />
 </h1>
 
 <h4 align="center"> 
@@ -54,13 +54,13 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 ###  Página de listagem dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/images/study-page.png" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="/public/images/study-page.png" width="100%">
 </p>
 
 ###  Página de cadastro dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/images/give-classes-fullpg.png" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="/public/images/give-classes-fullpg.png" width="100%">
 </p>
 
 ---
