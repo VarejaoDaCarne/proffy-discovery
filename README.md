@@ -85,7 +85,7 @@ $ cd proffy
 $ Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 # Execute a aplicação 
-$ Clique no arquivo index.html com o clique direito mouse e depois na opção "Open with Live Server"
+$ Clique no arquivo index.html com o clique direito mouse e vá na opção "Open with Live Server"
 
 # O servidor inciará na porta:5500 - acesse http://localhost:5500 
 ```
@@ -124,7 +124,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-grioos-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grioos/)](https://www.linkedin.com/in/grioos/) 
-[![Instagram Badge](https://img.shields.io/badge/-@grioos_-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/grioos_/)](https://www.instagram.com/grioos_/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.al.rio@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.al.rio@gmail.com)](mailto:gabriel.al.rio@gmail.com)
 
 ---
