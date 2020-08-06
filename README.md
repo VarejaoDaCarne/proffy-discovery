@@ -81,11 +81,11 @@ $ git clone https://github.com/grioos/proffy
 # Acesse a pasta do projeto no seu vscode
 $ cd proffy
 
-# Instale a extensão
-$ Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+# Instale as dependências
+$ npm install
 
 # Execute a aplicação 
-$ Clique no arquivo index.html com o clique direito mouse e vá na opção "Open with Live Server"
+$ npm start
 
 # O servidor inciará na porta:5500 - acesse http://localhost:5500 
 ```
