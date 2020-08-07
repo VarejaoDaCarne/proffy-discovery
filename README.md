@@ -103,6 +103,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[NodeJS](https://nodejs.org/en/)**
 - **[Nodemon](https://github.com/remy/nodemon)**
 - **[Nunjucks](https://github.com/mozilla/nunjucks)**
+- **[SQLite](https://www.sqlite.org/index.html)**
+- **[Sqlite-async](https://www.npmjs.com/package/sqlite-async)**
 
 > Veja o arquivo  [package.json](https://github.com/grioos/proffy/blob/master/package.json)
 
