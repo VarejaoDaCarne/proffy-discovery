@@ -8,17 +8,17 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy?color=%2304D361">
+  <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy-discovery?color=%2304D361">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy-discovery">
 
-  <a href="https://github.com/grioos/README-proffy/commits/master">
-    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy?color=%4d0000">
+  <a href="https://github.com/grioos/README-proffy-discovery/commits/master">
+    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy-discovery?color=%4d0000">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
-   <a href="https://github.com/grioos/proffy/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy?style=social">
+   <a href="https://github.com/grioos/proffy-discovery/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy-discovery?style=social">
   </a>
 
 </p>
@@ -67,8 +67,8 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 
 ## 🚀 Como executar o projeto
 
-Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta
-[Git](https://git-scm.com). 
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🧭 Rodando a aplicação
@@ -106,7 +106,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[SQLite](https://www.sqlite.org/index.html)**
 - **[Sqlite-async](https://www.npmjs.com/package/sqlite-async)**
 
-> Veja o arquivo  [package.json](https://github.com/grioos/proffy/blob/master/package.json)
+> Veja o arquivo  [package.json](https://github.com/grioos/proffy-discovery/blob/master/package.json)
 
 ---
 ## 💪 Como contribuir para o projeto
