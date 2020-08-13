@@ -13,7 +13,6 @@
     padding: 1.6rem 0;
 }
 
-
 .page-header .top-bar-container a {
     height: 3.2rem;
     transition: opacity .2s;
@@ -31,6 +30,8 @@
     width: 90%;
     margin: 3.2rem auto;
     position: relative;
+    display: flex;
+    flex-direction: column;
 }
 
 .page-header .header-content strong {
@@ -39,12 +40,24 @@
     color: var(--color-title-in-primary);
 }
 
+.page-header .header-container,
+.page-header .prepare-container {
+    margin-top: 2.4rem;
+}
+
+.page-header .prepare-container {
+    display: flex;
+}
+
+.page-header .prepare-container img {
+    margin-right: 2.4rem;
+}
+
 .page-header .header-content p {
     max-width: 30rem;
     font-size: 1.6rem;
     line-height: 2.6rem;
-    color: var(--color-title-in-primary);
-    margin-top: 2.4rem;
+    color: var(--color-text-in-primary);
 }
 
 @media (min-width: 700px) {
@@ -68,6 +81,13 @@
 
     .page-header .header-content strong {
         max-width: 350px;
+    }
+
+    .page-header .header-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 2.4rem;
     }
 
     .teacher-item header,
