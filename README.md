@@ -24,7 +24,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/public/images/home-page.png" />
+    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/.github/screenshots/home-page.png" />
 </h1>
 
 <h4 align="center"> 
@@ -54,13 +54,13 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 ###  Página de listagem dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/public/images/study-page.png" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/study-page.png" width="100%">
 </p>
 
 ###  Página de cadastro dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/public/images/give-classes-fullpage.png" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/give-classes-fullpage.png" width="100%">
 </p>
 
 ---
