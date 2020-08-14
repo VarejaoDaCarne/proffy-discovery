@@ -74,20 +74,28 @@
         margin: 0 auto;
         flex: 1 1;
         padding-bottom: 48px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
     }
 
     .page-header .header-content strong {
         max-width: 350px;
     }
 
-    .page-header .header-container {
+    .page-header .header-container { 
         display: flex;
-        align-items: center;
         justify-content: space-between;
-        margin-top: 2.4rem;
+        margin: .8em 0;
+    }
+
+    #page-give-classes .page-header .header-container {
+        align-items: flex-end;
+    }
+
+    #page-study .page-header .header-container {
+        align-items: flex-start;
+    }
+
+    .page-header .prepare-container {
+        align-items: center;
     }
 
     .teacher-item header,
