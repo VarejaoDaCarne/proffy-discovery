@@ -30,6 +30,12 @@
     width: 100%;
 }
 
+.welcome-message {
+    font-size: 2.4rem;
+    display: flex;
+    justify-content: center;
+}
+
 .buttons-container {
     display: flex;
     justify-content: center;
@@ -37,10 +43,10 @@
 }
 
 .buttons-container a {
-    width: 30rem;
-    height: 10.4rem;
-    border-radius: .8rem;
-    font: 700 2.4rem Archivo;
+    width: 44.6rem;
+    height: 15.4rem;
+    border-radius: 1.8rem;
+    font: 700 3.2rem Archivo;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -50,7 +56,7 @@
 }
 
 .buttons-container a img {
-    width: 4rem;
+    width: 6rem;
     margin-right: 2.4rem;
 }
 
@@ -69,6 +75,10 @@
 
 .buttons-container a.give-classes:hover {
     background: var(--color-secondary-dark);
+}
+
+.welcome-message { 
+    margin: 1.6rem 0;
 }
 
 .total-connections {
@@ -92,11 +102,11 @@
     #page-landing #container {
         max-width: 1100px;
         display: grid;
-        grid-template-columns: 2fr 1fr 2fr;
+        grid-template-columns: 2fr 1fr  2fr;
         grid-template-rows: 350px 1fr;
         grid-template-areas: 
         'proffy image image'
-        'button button texting';
+        'texting button button ';
         column-gap: 87px;
         row-gap: 86px;
     }
@@ -113,20 +123,39 @@
         height: 127px;
     }
 
+    .logo-container h2 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+
     .hero-image {
         grid-area: image;
         height: 350px;
+    }
+
+    .welcome-message {
+        grid-area: texting;
+        justify-content: flex-start;
+        align-items: center;
+        font-size: 3rem;
+        line-height: 4rem;
+    }
+
+    .welcome-message strong { 
+        display: block;    
+    }
+
+    .total-connections {
+        grid-area: texting;
+        justify-self: end;
+        font-size: 2rem;
+        width: 155px;
+        text-align: right;
     }
 
     .buttons-container {
         grid-area: button;
         justify-content: flex-start;
         margin: 0;
-    }
-
-    .total-connections {
-        grid-area: texting;
-        justify-self: end;
-        font-size: 1.8rem;
     }
 }
