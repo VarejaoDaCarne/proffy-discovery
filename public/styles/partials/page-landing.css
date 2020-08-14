@@ -6,10 +6,6 @@
     background: var(--color-primary);
 }
 
-#page-landing #container {
-    color: var(--color-text-in-primary)
-}
-
 .logo-container img {
     height: 10rem;
 }
@@ -24,6 +20,7 @@
     font-size: 3.6rem;
     line-height: 4.6rem;
     margin-top: 0.8rem;
+    color: var(--color-text-in-primary);
 }
 
 .hero-image {
@@ -34,6 +31,7 @@
     font-size: 2.4rem;
     display: flex;
     justify-content: center;
+    color: var(--color-text-in-primary);
 }
 
 .buttons-container {
@@ -86,6 +84,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    color: var(--color-text-in-primary);
 }
 
 .total-connections img {
@@ -99,6 +98,10 @@
 }
 
 @media (min-width: 1100px) {
+    #page-landing {
+        background: linear-gradient(to bottom, var(--color-primary) 63%, var(--color-lower-background) 37%);
+    }
+
     #page-landing #container {
         max-width: 1100px;
         display: grid;
@@ -108,7 +111,7 @@
         'proffy image image'
         'texting button button ';
         column-gap: 87px;
-        row-gap: 86px;
+        row-gap: 125px;
     }
 
     .logo-container {
@@ -139,6 +142,7 @@
         align-items: center;
         font-size: 3rem;
         line-height: 4rem;
+        color: var(--color-text-base);
     }
 
     .welcome-message strong { 
@@ -151,6 +155,7 @@
         font-size: 2rem;
         width: 155px;
         text-align: right;
+        color: var(--color-text-complement);
     }
 
     .buttons-container {

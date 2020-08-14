@@ -16,5 +16,5 @@ server
 .get('/study', pageStudy)
 .get('/give-classes', pageGiveClasses)
 .get('/success', pageSuccess)
-.post('/give-classes', saveClasses)
+.post('/success', saveClasses)
 .listen(5500)
