@@ -26,7 +26,19 @@
             </div>
 
             <div class="header-content">
-                <strong>Esses são os proffys disponíveis</strong>
+                <div class="header-container">
+                    <strong>Esses são os proffys disponíveis.</strong>
+                   
+                   <div class="prepare-container">
+                        <img src="/images/icons/smile.svg" alt="Sorriso ícone">
+                        <p>
+                            Nós temos 32
+                            <br>
+                            professores.
+                        </p>
+                    </div>
+                </div>
+
                 <form id="search-teachers">
                     <div class="select-block">
                         <label for="subject">Matéria</label>
@@ -74,6 +86,22 @@
                         </header>
 
                         <p>{{proffy.bio}}</p>
+
+                        <div class="schedule-container">
+                            {% for weekday in weekdays %}
+                                <div class="card">
+                                    <div class="week-day">
+                                        <h5>Dia</h5>
+                                        <h4>{{weekday}}</h4>
+                                    </div>
+
+                                    <div class="time">
+                                        <h5>Horário</h5>
+                                        <h4>8h - 18h</h4>
+                                    </div>
+                                </div>
+                            {% endfor %}
+                        </div>
 
                         <footer>
                             <p>Preço/hora<strong>R$ {{proffy.cost}}</strong>
