@@ -45,7 +45,7 @@
         </header>
 
         <main>
-            <form action="/give-classes" id="create-class" method="POST">
+            <form action="/success" id="create-class" method="POST">
                 <fieldset>
                     <legend>Seus dados</legend>
 
@@ -90,22 +90,23 @@
                 </fieldset>
 
                 <fieldset id="schedule-items">
-                    <legend>Horários disponíveis
+                    <legend>
+                        Horários disponíveis
                         <button id="add-time" type="button">+ Novo Horário</button>
                     </legend>
                     <div class="schedule-item">
                         <div class="select-block">
                             <label for="weekday">Dia da semana</label>
                             <select name="weekday[]" id="weekday" required>
-                            {% for weekday in weekdays %}
-                                <option value="{{loop.index0}}" >{{weekday}}</option>
-                            {% endfor %}
+                                {% for weekday in weekdays %}
+                                    <option value="{{loop.index0}}" >{{weekday}}</option>
+                                {% endfor %}
                             </select>
                         </div>
 
                         <div class="input-block">
                             <label for="time_from">Das</label>
-                            <input type="time" name="time_from[]" required>
+                            <input type="time" name="time_from[]"  required>
                         </div>
 
                         <div class="input-block">
