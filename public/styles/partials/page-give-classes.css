@@ -56,6 +56,15 @@
     margin-top: 2.4rem;
 }
 
+#page-give-classes .input-block.delete {
+    text-align: center;
+}
+
+#page-give-classes .input-block.delete img {
+    height: 2.6rem;
+    cursor: pointer;
+}
+
 #page-give-classes main footer {
     padding: 4rem 2.4rem;
     background: var(--color-box-footer);
@@ -97,7 +106,7 @@
     background: var(--color-secondary-dark);
 }
 
-.schedule-item + .schedule-item {
+#page-give-classes .schedule-item + .schedule-item {
     margin-top: 3.2rem;
     padding-top: 3.2rem;
     border-top: 1px solid var(--color-line-in-white);
@@ -116,15 +125,28 @@
         padding: 0 64px;
     }
 
-    .schedule-item {
+    #page-give-classes .schedule-item {
         display: grid;
         grid-template-columns: 2fr 1fr 1fr;
         column-gap: 1.6rem;
     }
 
+    #page-give-classes .schedule-item + .schedule-item {
+        grid-template-columns: 2fr 1fr 1fr 0px;
+    }
+
+    #page-give-classes .schedule-item + .schedule-item .input-block:nth-child(3) input {
+        padding-right: 0;
+    }
+    
     #page-give-classes #schedule-items .input-block + .input-block,
     #page-give-classes #schedule-items .select-block + .input-block {
         margin-top: 0;
+    }
+
+    #page-give-classes .schedule-item .input-block.delete {
+        align-self: flex-end;
+        margin: .8rem 0;
     }
 
     #page-give-classes main footer {
