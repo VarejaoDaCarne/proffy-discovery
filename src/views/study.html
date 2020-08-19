@@ -87,24 +87,9 @@
 
                         <p>{{proffy.bio}}</p>
 
-                        <div class="schedule-container">
-                            {% for weekday in weekdays %}
-                                <div class="card">
-                                    <div class="week-day">
-                                        <h5>Dia</h5>
-                                        <h4>{{weekday}}</h4>
-                                    </div>
-
-                                    <div class="time">
-                                        <h5>Horário</h5>
-                                        <h4>8h - 18h</h4>
-                                    </div>
-                                </div>
-                            {% endfor %}
-                        </div>
-
                         <footer>
-                            <p>Preço/hora<strong>R$ {{proffy.cost}}</strong>
+                            <p>
+                                Preço/hora<strong>R$ {{proffy.cost}},00</strong>
                             </p>
                             <a 
                                 href="https://api.whatsapp.com/send?1=pt_BR&phone=55{{proffy.whatsapp}}&text=Tenho interesse na sua aula de {{proffy.subject}} {{proffy.name}}" 
