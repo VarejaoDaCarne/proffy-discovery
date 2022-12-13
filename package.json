@@ -11,7 +11,7 @@
     "url": "https://github.com/grioos/proffy/issues"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nunjucks": "^3.2.2",
     "sqlite-async": "^1.1.0"
   },
